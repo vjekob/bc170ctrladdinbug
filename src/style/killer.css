@@ -1,0 +1,15 @@
+div {
+    height: 100%;
+    width: 100%;
+    font-family: 'Segoe UI Light', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16pt;
+    color: white;
+    background-color: maroon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.initialized {
+    background-color: forestgreen;
+}
